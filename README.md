@@ -1,3 +1,3 @@
 # algorithm
-1,keams requirement package
+1,kmeans requirement package
 pip install numpy, matplotlib 
